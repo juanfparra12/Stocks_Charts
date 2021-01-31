@@ -1,0 +1,23 @@
+{
+  "name": "stocks_charts",
+  "version": "1.0.0",
+  "description": "Introduction project to display candlestick stocks charts.",
+  "main": "chart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfparra12/Stocks_Charts.git"
+  },
+  "author": "Juan Parra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfparra12/Stocks_Charts/issues"
+  },
+  "homepage": "https://github.com/juanfparra12/Stocks_Charts#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "dotenv": "^8.2.0"
+  }
+}
